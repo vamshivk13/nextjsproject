@@ -1,0 +1,6 @@
+.detail img{
+    width: 100%;
+}
+.detail h1, .detail address{
+    text-align: center;
+}
