@@ -56,6 +56,7 @@ export async function getStaticProps() {
         };
       }),
     },
+    revalidate: 1,
   };
 }
 export default Homepage;
